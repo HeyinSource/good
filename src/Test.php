@@ -11,5 +11,8 @@ namespace good;
 
 class Test
 {
-
+    public static function index()
+    {
+        echo 'hello';
+    }
 }
